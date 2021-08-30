@@ -4,3 +4,5 @@ Komunikasi daring sinkron
 - Line
 komunikasi daring asinkron 
 - Email
+Git
+Github
