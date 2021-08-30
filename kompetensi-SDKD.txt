@@ -6,3 +6,7 @@ komunikasi daring asinkron
 - Email
 Git
 Github
+- membuat akun 
+- membuat repository
+- membuat file baru
+- membuat commit
