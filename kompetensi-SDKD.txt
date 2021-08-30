@@ -5,4 +5,7 @@ Komunikasi daring sinkron
 komunikasi daring asinkron 
 - Email
 Git
+- belum
 Github
+- membuat akun 
+- membuat repository (file baru dan commit)
